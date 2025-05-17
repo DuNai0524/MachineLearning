@@ -1,6 +1,6 @@
-# Deep Learning
+# Machine Learning
 
-个人学习深度学习的笔记以及代码
+个人学习机器学习笔记以及代码
 
 主要书籍：
 
